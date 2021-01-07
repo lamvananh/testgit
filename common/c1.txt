@@ -2,3 +2,6 @@ function a(){
 	alert(F1111111111111);
 	console.log('F1111111111111');
 }
+function f1(){
+	
+}
