@@ -1,3 +1,6 @@
 function a(){
 	alert(111);
 }
+function f3(){
+	
+}
